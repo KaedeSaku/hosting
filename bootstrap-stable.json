@@ -59,7 +59,7 @@
         "commons-codec-1.10.jar": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569",
         "pf4j-3.6.0.jar": "d0a653658b736f1916550a4e026a0ec24ccbde2a9b613a341588c4d7544643f4",
         "lwjgl-opengl-3.3.1-natives-macos.jar": "711f29972888509262a957f1b3138bfa9b505519d11df6e5763d1c9a3f8b3c5d",
-        "runelite-client-1.0.16-STABLE.jar": "78197d2aa1c50b1498da8f841990bffd935dc9f03b395f43b12d4494be7b23b5",
+        "runelite-client-1.0.16-STABLE.jar": "b1bf368cf1df7adb11780cbb8a7de917f6de0a8c34e5e058ca4fe73b92ef2180",
         "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
         "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
         "commons-csv-1.9.0.jar": "c418d6aab4db4f1f70983d355de8d7c1e755c754820a92294da2e5f5081022cc",
@@ -163,25 +163,25 @@
     "projectVersion": "1.0.16-STABLE",
     "artifacts": [
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/runescape-api-1.0.16-STABLE.jar",
             "size": 130550,
             "name": "runescape-api-1.0.16-STABLE.jar",
             "hash": "6be9543ad0385c7cf2f1d52bf5053746fdb20b068a041a7dcc501752b0173634"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/runelite-api-1.0.16-STABLE.jar",
             "size": 1420938,
             "name": "runelite-api-1.0.16-STABLE.jar",
             "hash": "46f40df38bcda99a4b6dc21f59013ab9b62e7db942a718382d5e80620e8ef987"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/http-api-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/http-api-1.0.16-STABLE.jar",
             "size": 96159,
             "name": "http-api-1.0.16-STABLE.jar",
             "hash": "8015f585837fe969780ce05fa6bb5fdb88eebb5e3e805a099423575e4f99f25d"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
+            "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/runelite-jshell-1.0.16-STABLE.jar",
             "size": 22959,
             "name": "runelite-jshell-1.0.16-STABLE.jar",
             "hash": "5138718948b10c095f44532023ff8eaa71ce11b611ec8551c96f1ecb5e3ce546"
@@ -577,10 +577,10 @@
             "hash": "055be110a570f9cda3eba8d70a006ff46c77a048bc67868524879211c48b330a"
         },
         {
-            "path": "https://raw.githubusercontent.com/jbx5/devious-hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 14876851,
+            "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
+            "size": 14876877,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "78197d2aa1c50b1498da8f841990bffd935dc9f03b395f43b12d4494be7b23b5"
+            "hash": "b1bf368cf1df7adb11780cbb8a7de917f6de0a8c34e5e058ca4fe73b92ef2180"
         }
     ]
 }
