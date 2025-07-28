@@ -578,9 +578,9 @@
         },
         {
             "path": "https://raw.githubusercontent.com/KaedeSaku/hosting/master/stable/runelite-client-1.0.16-STABLE.jar",
-            "size": 14876860,
+            "size": 14975346,
             "name": "runelite-client-1.0.16-STABLE.jar",
-            "hash": "64dca3aed5771d4c3d8775f7cae9a73d2d8046d8b3082723ddb7b2b6c68e8dff"
+            "hash": "b4a90e8dd8a231451103b70495dfe7c971156da052ef189c03ff79482cfddd79"
         }
     ]
 }
